@@ -1,0 +1,20 @@
+.errMsg{
+    width: 320px;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 73px;
+    margin-bottom: -20px;
+    background: #cc2424;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-family: verdana;
+
+}
+.error{
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+    margin-top: 300px;
+}
