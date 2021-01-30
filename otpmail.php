@@ -7,7 +7,7 @@ $errors = '';
 $otp=$_SESSION["otp"];
 $myemail = $_POST['email'];//<-----Put Your email address here.
 $_SESSION["em"]=$myemail;
-$email_address = "otp@canteen.otp";
+$email_address = "pvmishra_b18@ce.vjti.ac.in";
 
 if (!preg_match(
 "/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i", 
